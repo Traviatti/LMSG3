@@ -14,7 +14,7 @@ formElement.onsubmit=function(){
    gestionarXml(this);
   }
  };
- xhttp.open("GET", "xml/preguntas.xml", true);
+ xhttp.open("GET", "../preguntas.xml", true);
  xhttp.send();
 }
 

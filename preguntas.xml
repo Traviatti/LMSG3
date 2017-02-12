@@ -5,20 +5,20 @@
 <questions>
 
 	<question id='question1'>
-		<type>text</type>
-		<text>1. Ciudad capital de España</text>
+		<type>title</type>
+		<title>1. Ciudad capital de España</title>
 		<answer>Madrid</answer>
 	</question>
 
 	<question id='question2'>
-		<type>text</type>
-		<text>2. ¿En qué año llegó el hombre a la luna?</text>
+		<type>title</type>
+		<title>2. ¿En qué año llegó el hombre a la luna?</title>
 		<answer>1969</answer>
 	</question>
 
 	<question id='question3'>
 		<type>radio</type>
-		<text>3. ¿Qué sistema numérico es el principial usado en la informática?</text>
+		<title>3. ¿Qué sistema numérico es el principial usado en la informática?</title>
 		<option>a) Octal</option>
 		<option>b) Binario</option> 
 		<option>c) Hexadecimal</option>
@@ -27,7 +27,7 @@
 
 	<question id='question4'>
 		<type>radio</type>
-		<text>4. 2 + 4 * 5 = ?</text>
+		<title>4. 2 + 4 * 5 = ?</title>
 		<option>a) 30</option>
 		<option>b) 11</option> 
 		<option>c) 22</option>
@@ -36,7 +36,7 @@
 
 	<question id='question5'>
 		<type>select</type>
-		<text>5. ¿Cuál es el fruto del nogal?</text>
+		<title>5. ¿Cuál es el fruto del nogal?</title>
 		<option>a) Nuez</option>
 		<option>b) Manzana</option> 
 		<option>c) Piña</option>
@@ -45,7 +45,7 @@
 
 	<question id='question6'>
 		<type>select</type>
-		<text>6. ¿Puede el hombre volar por sí mismo?</text>
+		<title>6. ¿Puede el hombre volar por sí mismo?</title>
 		<option>a) Sí</option>
 		<option>b) No</option> 
 		<answer>1</answer> <!-- 0, 1 -->
@@ -53,7 +53,7 @@
 
 	<question id='question7'>
 		<type>multiple</type>
-		<text>7. ¿Cuál de estos types son navegadores web?</text>
+		<title>7. ¿Cuál de estos types son navegadores web?</title>
 		<option>a) Chrome</option>
 		<option>b) Explorador</option> 
 		<option>c) Mozilla</option>
@@ -64,7 +64,7 @@
 
 		<question id='question8'>
 		<type>multiple</type>
-		<text>8. ¿Qué países tienen frontera con Andorra?</text>
+		<title>8. ¿Qué países tienen frontera con Andorra?</title>
 		<option>a) Francia</option>
 		<option>b) Portugal</option> 
 		<option>c) España</option>
@@ -76,7 +76,7 @@
 
 	<question id='question9'>
 		<type>checkboxx</type>
-		<text>9. ¿Cúal de éstos nombres pertenecen a una red social=</text>
+		<title>9. ¿Cúal de éstos nombres pertenecen a una red social=</title>
 		<option>a) Facebook</option>
 		<option>b) Twider</option> 
 		<option>c) Twiter</option>
@@ -87,7 +87,7 @@
 
 	<question id='question10'>
 		<type>checkbox</type>
-		<text>10. ¿Dónde puedes almacenar datos informáticos?</text>
+		<title>10. ¿Dónde puedes almacenar datos informáticos?</title>
 		<option>a) Disco Duro</option>
 		<option>b) Archivador</option> 
 		<option>c) USB</option>
