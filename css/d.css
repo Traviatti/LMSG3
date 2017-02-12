@@ -1,0 +1,33 @@
+html
+{
+	position: absolute;
+	margin: 0 auto;
+}
+#logo1
+{
+	float: left;
+	padding: .5em;
+}
+#titulo
+{
+	float: left;
+	align-content: center;
+	padding: .5em;
+	margin-top: 10%;
+}
+#logo2
+{
+	float: left;
+	padding: .5em;
+}
+img
+{
+	height: 300px;
+	width: 300px;
+}
+#test
+{
+	text-align: center;
+	padding: .20em;
+	margin: auto;
+}

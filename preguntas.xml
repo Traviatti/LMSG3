@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE questions SYSTEM "questions.dtd">
+
+<questions>
+
+	<question id='question1'>
+		<type>text</type>
+		<text>1. Ciudad capital de España</text>
+		<answer>Madrid</answer>
+	</question>
+
+	<question id='question2'>
+		<type>text</type>
+		<text>2. ¿En qué año llegó el hombre a la luna?</text>
+		<answer>1969</answer>
+	</question>
+
+	<question id='question3'>
+		<type>radio</type>
+		<text>3. ¿Qué sistema numérico es el principial usado en la informática?</text>
+		<option>a) Octal</option>
+		<option>b) Binario</option> 
+		<option>c) Hexadecimal</option>
+		<answer>2</answer> <!-- 0, 1, 2 -->
+	</question>
+
+	<question id='question4'>
+		<type>radio</type>
+		<text>4. 2 + 4 * 5 = ?</text>
+		<option>a) 30</option>
+		<option>b) 11</option> 
+		<option>c) 22</option>
+		<answer>3</answer> <!-- 0, 1, 2 -->
+	</question>
+
+	<question id='question5'>
+		<type>select</type>
+		<text>5. ¿Cuál es el fruto del nogal?</text>
+		<option>a) Nuez</option>
+		<option>b) Manzana</option> 
+		<option>c) Piña</option>
+		<answer>1</answer>
+	</question>
+
+	<question id='question6'>
+		<type>select</type>
+		<text>6. ¿Puede el hombre volar por sí mismo?</text>
+		<option>a) Sí</option>
+		<option>b) No</option> 
+		<answer>1</answer> <!-- 0, 1 -->
+	</question>
+
+	<question id='question7'>
+		<type>multiple</type>
+		<text>7. ¿Cuál de estos types son navegadores web?</text>
+		<option>a) Chrome</option>
+		<option>b) Explorador</option> 
+		<option>c) Mozilla</option>
+		<option>d) Edger</option> 
+		<answer>1</answer>
+		<answer>3</answer> <!-- 0, 1, 2, 3 -->
+	</question>
+
+		<question id='question8'>
+		<type>multiple</type>
+		<text>8. ¿Qué países tienen frontera con Andorra?</text>
+		<option>a) Francia</option>
+		<option>b) Portugal</option> 
+		<option>c) España</option>
+		<option>d) Italia</option> 
+		<answer>1</answer>
+		<answer>3</answer> <!-- 0, 1, 2, 3 -->
+	</question>
+
+
+	<question id='question9'>
+		<type>checkboxx</type>
+		<text>9. ¿Cúal de éstos nombres pertenecen a una red social=</text>
+		<option>a) Facebook</option>
+		<option>b) Twider</option> 
+		<option>c) Twiter</option>
+		<option>d) Facebuc</option>		
+		<answer>1</answer>
+		<answer>3</answer> <!-- 0, 1, 2, 3 -->
+	</question>
+
+	<question id='question10'>
+		<type>checkbox</type>
+		<text>10. ¿Dónde puedes almacenar datos informáticos?</text>
+		<option>a) Disco Duro</option>
+		<option>b) Archivador</option> 
+		<option>c) USB</option>
+		<option>d) Cartapacio</option>
+		<answer>1</answer>
+		<answer>3</answer> <!-- 0, 1, 2, 3 -->
+	</question>
+	
+</questions>
